@@ -1,0 +1,4 @@
+{"t": 1.0, "seq": 4, "hr": 72.4, "rr_ms": 829, "eda_us": 2.61, "focus": 0.55, "quality": "ok", "scenario": "spokoj", "gaze_x": 960.5, "gaze_y": 540.0, "pupil_mm": 3.8, "resp": 0.42}
+{"t": 1.25, "seq": 5, "hr": 72.1, "eda_us": 2.6, "quality": "noisy", "scenario": "spokoj"}
+{"t": 1.5, "seq": 6, "hr": null, "rr_ms": null, "eda_us": null, "focus": null, "quality": "lost", "scenario": "spokoj"}
+to nie jest JSON
